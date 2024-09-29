@@ -1,9 +1,9 @@
-[![MasterHead][(https://corebi.com.ar/wp-content/uploads/2023/03/Machine-Learning.jpeg](https://media.istockphoto.com/vectors/machine-learning-banner-logo-for-technology-ai-big-data-algorithm-vector-id1273072739?k=20&m=1273072739&s=170667a&w=0&h=4hZUcPPFIALzzwoQv6lduk39sXW3HHIOdBnluSQL18M=))]
+[![MasterHead](https://www.bu.edu/hic/files/2021/04/ai-top-banner.jpeg)]
 
 <h1 align="center">Hi 👋, I'm MADHAVA REDDY</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
+<img align="right" alt="coding" width="400" src="[https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavareddy-2005&label=Profile%20views&color=0e75b6&style=flat" alt="madhavareddy-2005" /> </p>
 
