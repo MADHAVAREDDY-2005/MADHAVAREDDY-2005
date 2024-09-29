@@ -1,9 +1,9 @@
-[![MasterHead](https://corebi.com.ar/wp-content/uploads/2023/03/Machine-Learning.jpeg)]
+[![MasterHead][(https://corebi.com.ar/wp-content/uploads/2023/03/Machine-Learning.jpeg](https://media.istockphoto.com/vectors/machine-learning-banner-logo-for-technology-ai-big-data-algorithm-vector-id1273072739?k=20&m=1273072739&s=170667a&w=0&h=4hZUcPPFIALzzwoQv6lduk39sXW3HHIOdBnluSQL18M=))]
 
 <h1 align="center">Hi 👋, I'm MADHAVA REDDY</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=6uOiT12c&id=7C9C15CEAE19488EB247A6392296A38474202089&thid=OIP.6uOiT12cdeHjq2Q3WGaLwQHaE8&mediaurl=https%3A%2F%2Fimages.rawpixel.com%2Fimage_social_landscape%2FcHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsb2ZmaWNlMTVfYV9taW5pbWFsX2FuZF9sZXNzX2RldGFpbF9pbGx1c3RyYXRpb25fb2ZfYV9sb19kOTgwNTI4Mi03NGVkLTQyZWEtYTNjMS0wOWU4MjgzN2EzYzZfMS5qcGc.jpg&exph=667&expw=1000&q=animated+coding+gif+a+boy+using+a+laptop+night&form=IRPRST&ck=303AAD4DDCE318464EE72EE06A2B512E&selectedindex=4&itb=0&cw=1375&ch=664&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_wVGPDeyw*cp_BBD54EA9D8024FB02FE37CF0B6CBE6C8*mid_4F38E204F8A9361248D9208D5AF0205ED84D75C0*thid_OIP.wVGPDeywj8aLCHqEMDcjpwAAAA&vt=0&sim=11&iss=VSI&simid=608007541354690632.jpg">
+<img align="right" alt="coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavareddy-2005&label=Profile%20views&color=0e75b6&style=flat" alt="madhavareddy-2005" /> </p>
 
