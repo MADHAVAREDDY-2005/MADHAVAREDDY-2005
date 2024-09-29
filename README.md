@@ -1,16 +1,30 @@
-## Hi there 👋
+[![MasterHead](https://corebi.com.ar/wp-content/uploads/2023/03/Machine-Learning.jpeg)]
 
-<!--
-**MADHAVAREDDY-2005/MADHAVAREDDY-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm MADHAVA REDDY</h1>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-Here are some ideas to get you started:
+<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=6uOiT12c&id=7C9C15CEAE19488EB247A6392296A38474202089&thid=OIP.6uOiT12cdeHjq2Q3WGaLwQHaE8&mediaurl=https%3A%2F%2Fimages.rawpixel.com%2Fimage_social_landscape%2FcHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsb2ZmaWNlMTVfYV9taW5pbWFsX2FuZF9sZXNzX2RldGFpbF9pbGx1c3RyYXRpb25fb2ZfYV9sb19kOTgwNTI4Mi03NGVkLTQyZWEtYTNjMS0wOWU4MjgzN2EzYzZfMS5qcGc.jpg&exph=667&expw=1000&q=animated+coding+gif+a+boy+using+a+laptop+night&form=IRPRST&ck=303AAD4DDCE318464EE72EE06A2B512E&selectedindex=4&itb=0&cw=1375&ch=664&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_wVGPDeyw*cp_BBD54EA9D8024FB02FE37CF0B6CBE6C8*mid_4F38E204F8A9361248D9208D5AF0205ED84D75C0*thid_OIP.wVGPDeywj8aLCHqEMDcjpwAAAA&vt=0&sim=11&iss=VSI&simid=608007541354690632.jpg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavareddy-2005&label=Profile%20views&color=0e75b6&style=flat" alt="madhavareddy-2005" /> </p>
+
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **kamireddymadhavareddy9421@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/madhava-reddy-kamireddy-982971290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhava-reddy-kamireddy-982971290" height="30" width="40" /></a>
+<a href="https://kaggle.com/madhavareddy09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="madhavareddy09" height="30" width="40" /></a>
+<a href="https://instagram.com/madhav_rockzz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhav_rockzz_" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavareddy-2005&show_icons=true&locale=en&layout=compact" alt="madhavareddy-2005" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavareddy-2005&show_icons=true&locale=en" alt="madhavareddy-2005" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavareddy-2005&" alt="madhavareddy-2005" /></p>
