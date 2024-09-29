@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bu.edu/hic/files/2021/04/ai-top-banner.jpeg)]
+![MasterHead](https://www.bu.edu/hic/files/2021/04/ai-top-banner.jpeg)
 
 <h1 align="center">Hi 👋, I'm MADHAVA REDDY</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
