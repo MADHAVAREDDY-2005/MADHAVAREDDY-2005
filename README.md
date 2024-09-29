@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **C**, **Python**, **Scikit-learn**, **Pandas**
 
 - 📫 How to reach me **kamireddymadhavareddy9421@gmail.com**
 
