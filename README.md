@@ -58,7 +58,7 @@
   </a>
   
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" width="40" height="40"/>
   </a>
   
 </p>
@@ -66,11 +66,3 @@
 ### 🏆 Achievement
 
 - Ranked **9th nationally among 170+ teams** in the Shaastra AI/ML Challenge, IIT Madras.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MADHAVAREDDY-2005&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MADHAVAREDDY-2005&hide_border=true" alt="GitHub Streak" />
-</p>
