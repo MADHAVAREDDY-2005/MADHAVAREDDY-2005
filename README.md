@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C**, **Python**, **Scikit-learn**, **Pandas**
 
-- 📫 How to reach me **kamireddymadhavareddy9421@gmail.com**
+- 📫 How to reach me **madhavareddy.kamireddy22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
